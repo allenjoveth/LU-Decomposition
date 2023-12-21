@@ -7,12 +7,11 @@ To write a program to find the LU Decomposition of a matrix.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+## Algorithm:
+1. Start the program
+2. Use numpy and sys packages
+3. Use nested loop through each row and column
+4. End the program
 ## Program:
 (i) To find the L and U matrix
 ```
